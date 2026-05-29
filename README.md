@@ -144,9 +144,9 @@ Business-Metrics-Customers-Plans-Revenue-Dashboard/
 │   └── business_views.sql
 │
 ├── dashboard/
-│   ├── executive_overview.png
-│   ├── customer_plan_analytics.png
-│   └── revenue_analytics.png
+│   ├── executive-overview.png
+│   ├── customer-plan-analytics.png
+│   └── revenue-analytics.png
 │
 └── README.md
 ```
@@ -217,7 +217,7 @@ Business Insights
 
 ### 1. Executive Overview
 
-![Executive Overview](executive_overview.png)
+![Executive Overview](executive-overview.png)
 
 **Provides a high-level view of overall business performance.**
 
@@ -237,7 +237,7 @@ ARPU remained stable indicating healthy monetization
 
 ### 2. Customer & Plan Analytics
 
-![Customer & Plan Analytics](customer_plan_analytics.png)
+![Customer & Plan Analytics](customer-plan-analytics.png)
 
 **Analyzes customer behavior, subscription plans, acquisition cost, and customer value.**
 
@@ -257,7 +257,7 @@ Churn distribution remained relatively balanced across plans
 
 ### 3. Revenue Analytics
 
-![Revenue Analytics](revenue_analytics.png)
+![Revenue Analytics](revenue-analytics.png)
 
 **Tracks revenue performance, recurring revenue, customer growth, and transaction behavior.**
 
